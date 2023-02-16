@@ -5,16 +5,16 @@
         <div className="flex flex-col sm:flex-row md:flex-row lg:flex-row
         p-8 md:p10" >
            
-            <div className="animate-pulse py-20 w-1/2">
+            <div className="animate-pulse py-20 w-auto sm:w-2/5 m-2">
              {/*  // h-10 sm:h-10 md:h-12 mt-12 sm-16 */}
-             <Illustration className=" w-auto"/>
+             <Illustration className=""/>
              </div>
-           <div className="flex flex-column w-1/2">
-           <div className="animate:bounce p-10 max-w-4xl text-gray-500 bg-white rounde-md shadow-md">
-           <p className="text-gray-500 text-2xl sm:2xl text-center animate-bounce ">
+           
+           <div className="flex flex-col w-auto sm:w-2/5 text-gray-500 bg-white rounded-md shadow-md">
+           <p className="text-gray-500 animate-bounce text-center m-2 p-2">
             What is Metaverse ?</p> 
           
-          <p className="text-gray-500  text-justify mt-2">
+          <p className="text-gray-500  text-justify p-2 m-2">
           
 A communal environment or virtual world made possible by the fusion of physical and virtual reality is referred to as the "metaverse." Users can engage in shared interactions with a wide range of virtual objects and environments in this imagined networked virtual world. Various technology businesses are aggressively pursuing the science fiction idea of a metaverse in an effort to give users a seamless and immersive experience.
 
@@ -29,7 +29,7 @@ Object-Oriented Programming and cutting-edge Full-Stack Web 2.0 development
 The graduates of this program will own products (Full-Stack App Templates, AR and VR Experiences, and APIs)
           </p>
           </div> 
-          </div>
+          
                     
         </div>
       </div>

@@ -16,7 +16,7 @@ export default function Footer() {
   return (
     
       <div className="p-2">
-        <div className="flex justify-center">
+        <div className="flex flex-col sm:flex-row justify-center">
         <div className="pr-20 pt-10 pl-2">
         <Logo className="h-16 w-16 p-2" />
         <p className="pl-2"> Panaverse DAO </p>
