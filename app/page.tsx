@@ -4,9 +4,10 @@ import { Inter } from '@next/font/google'
 import NavBar from './components/NavBar'
 import Main_Section from './components/Main_Section'
 import Section2 from './components/Section2'
-import Metaverse from './components/Metaverse'
+//import Metaverse from './components/Metaverse'
 import Footer from './components/Footer'
-import SlideEx from './components/Slide'
+//import Slide from './components/Slide'
+import MetaverseAnimate from './components/MetaverseAnimate'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -16,7 +17,7 @@ export default function Home() {
     <NavBar/>
     <Main_Section/>
     <Section2/>
-    <Metaverse/>
+    <MetaverseAnimate/>
     <Footer/>
     </>
 
