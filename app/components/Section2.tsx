@@ -1,11 +1,11 @@
 export default function Section2() {
     return (
-      <div className="py-12 sm:py-12 md:py-12 px-4 sm:px-4 md:px-8
+      <div className="py-8 sm:py-12 md:py-12 px-2 sm:px-4 md:px-4
              border-gray-500 bg-gray-200 rounded-md shadow-md" >
            
            
       <div className=" rounded-full " >
-        <div className="flex flex-row px-8 sm:px-8 md:px-8 lg:pl-8">
+        <div className="flex flex-col sm:flex-row px-4 sm:px-4 md:px-4 lg:pl-4">
                   
             <p className=" text-gray-800 text-2xl p-4">
             The Panaverse Community
