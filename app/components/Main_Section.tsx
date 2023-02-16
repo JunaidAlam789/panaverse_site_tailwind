@@ -1,12 +1,13 @@
   export default function Main_Section() {
     return (
       <div className="p-16" >
-        <div className="flex flex-col justify-center ">
+        <div className="flex flex-col justify-center">
+        <p className="flex justify-center bg-clip-text text-transparent py-4
+              sm:font-thin md:font-normal lg:font-bold
+              bg-gradient-to-l from-gray-50 to-black gray text-3xl">
+              Certified Web 3.0 and Metaverse Developer
+              </p>
           
-          
-            <p className="flex justify-center py-4 sm:font-thin md:font-normal lg:font-bold text-3xl">
-            Certified Web 3.0 and Metaverse Developer
-            </p>
             <p className="flex justify-center py-4 text-red-400 sm:font-thin md:font-normal lg:font-medium text-4xl">
             A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar
             </p>
