@@ -14,7 +14,7 @@
          
           <p className="flex text-left sm:justify-center py-2 text-gray-400 text-base sm:text-xl md:text-2xl">
           Getting Ready for the Next Generation and Future of the Internet</p>
-          <p className="flex text-left sm:justify-center py-2 text-gray-400 text-base sm:text-xl md:text-2xl">
+          <p className="flex text-left collapse sm:visible sm:justify-center py-2 text-gray-400 text-base sm:text-xl md:text-2xl">
           Join a 13 Trillion Dollar Industry with 5 Billion Users</p>
           <div className="p-6 flex flex-col sm:flex-row justify-center">
             <button className="animate-bounce text-white rounded-full px-4 m-2 py-2 bg-red-400 hover:bg-red-500">
