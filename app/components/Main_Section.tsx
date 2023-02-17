@@ -8,11 +8,15 @@
               Certified Web 3.0 and Metaverse Developer
               </p>
           
-            <p className="flex text-left sm:justify-center  text-base sm:text-xl md:text-2xl lg:text-3xl py-4 text-red-400 sm:font-thin md:font-normal lg:font-medium ">
+            <p className="flex text-left sm:collapse sm:justify-center  text-base sm:text-xl md:text-2xl lg:text-3xl py-4 text-red-400 sm:font-thin md:font-normal lg:font-medium ">
+            In Karachi, Lahore, Islamabad, and Peshawar
+            </p>
+            <p className="flex text-left collapse sm:visible sm:justify-center  text-base sm:text-xl md:text-2xl lg:text-3xl py-4 text-red-400 sm:font-thin md:font-normal lg:font-medium ">
             A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar
             </p>
-         
-          <p className="flex text-left sm:justify-center py-2 text-gray-400 text-base sm:text-xl md:text-2xl">
+            <p className="flex text-left sm:collapse sm:justify-center py-2 text-gray-400 text-base sm:text-xl md:text-2xl">
+          Getting Ready for the Next Generation Internet</p>
+          <p className="flex text-left collapse sm:visible sm:justify-center py-2 text-gray-400 text-base sm:text-xl md:text-2xl">
           Getting Ready for the Next Generation and Future of the Internet</p>
           <p className="flex text-left collapse sm:visible sm:justify-center py-2 text-gray-400 text-base sm:text-xl md:text-2xl">
           Join a 13 Trillion Dollar Industry with 5 Billion Users</p>
