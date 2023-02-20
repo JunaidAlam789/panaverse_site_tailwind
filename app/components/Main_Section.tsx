@@ -1,7 +1,7 @@
   export default function Main_Section() {
     return (
       <div className="h-screen" >
-        <span className="h-4/5 flex flex-col justify-around items-center border-2">
+        <span className="h-4/5 flex flex-col justify-around items-center">
             
               <span className="  text-xl sm:text-2xl font-bold text-center
               bg-clip-text text-transparent bg-gradient-to-l from-gray-400 to-black">

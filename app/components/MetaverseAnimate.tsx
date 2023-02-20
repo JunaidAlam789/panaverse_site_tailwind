@@ -1,15 +1,15 @@
 
   export default function MetaverseAnimate() {
     return (
-      <div className="">
+      <div className="h-full">
         <div className=" flex flex-col sm:flex-row md:flex-row lg:flex-row justify-around items-center" >
            
-            <div className="animate-pulse py-20 w-auto sm:w-2/5 m-2">
+            <div className="flex-1 animate-pulse p-2 m-2">
              {/*  // h-10 sm:h-10 md:h-12 mt-12 sm-16 */}
              <Illustration className=""/>
              </div>
            
-           <div className="flex flex-col w-auto sm:w-2/5 text-gray-500 bg-white rounded-md shadow-md">
+           <div className="flex-[2] flex flex-col  text-gray-500 bg-white rounded-md shadow-md">
            <p className="text-gray-800 bg-gray-200 rounded-lg font-bold text-2xl animate-bounce text-center m-2 p-2">
             What is Metaverse ?</p> 
           

@@ -1,16 +1,16 @@
  
   export default function Metaverse() {
     return (
-      <div className="">
-        <div className="flex flex-col sm:flex-col md:flex-row lg:flex-row
+      <div className="h-96  overflow-scroll">
+        <div className="flex flex-col items-center sm:flex-col md:flex-row lg:flex-row
         p-8 md:p10" >
            
-            <div className="p-40">
+            <div className="p-4">
              {/*  // h-10 sm:h-10 md:h-12 mt-12 sm-16 */}
              <Illustration className=""/>
              </div>
            <div className="flex flex-column">
-           <div className="p-10 max-w-4xl text-gray-500 bg-white rounde-md shadow-md">
+           <div className="p-10 text-gray-500 bg-white rounde-md shadow-md">
            <p className="text-gray-500 text-2xl sm:2xl text-center">
             What is Metaverse ?</p> 
           
