@@ -8,23 +8,21 @@ export default function NavBar() {
 
   return (
     <>
-       <div className="border px-2"> 
+       <div className="border"> 
        
-          <div className="flex sm:flex-row justify-center border">
-          <img src="./panaverse80_80.jpg" className="h-12 w-12 p-2 mr-auto"/>
-          <div className="flex flex-col sm:flex-row">
+          <div className="flex sm:flex-row border justify-between">
+          <img src="./panaverse80_80.jpg" className="h-12 w-12 p-2"/>
+          <div className="flex flex-row flex-wrap">
           <a className="m-4 ">Home</a>
           <a className="m-4 ">Docs</a> 
-          </div>
-          <div className="flex flex-col sm:flex-row">
           <a className="m-4 ">Future</a>
           <a className="m-4 ">More</a>
           </div>
-          
-          <button className="text-white collapse sm:visible bg-red-400 hover:bg-red-500 ml-auto my-2 p-2 rounded-full" >
+          <div className="flex">
+          <button className="flex-shrink-0 flex-grow-0 h-10 text-white sm:visible bg-red-400 hover:bg-red-500  my-2 p-2 rounded-full" >
           <a href={'https://portal.piaic.org/signup'}>Apply Now</a>
-            </button>
-            
+          </button>
+          </div>
           </div>
 
           
