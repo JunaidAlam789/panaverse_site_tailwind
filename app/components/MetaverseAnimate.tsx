@@ -10,10 +10,10 @@
              </div>
            
            <div className="flex flex-col w-auto sm:w-2/5 text-gray-500 bg-white rounded-md shadow-md">
-           <p className="text-gray-800 bg-gray-200 rounded-lg text-2xl animate-bounce text-center m-2 p-2">
+           <p className="text-gray-800 bg-gray-200 rounded-lg font-bold text-2xl animate-bounce text-center m-2 p-2">
             What is Metaverse ?</p> 
           
-          <p className="text-gray-500  text-justify p-2 m-2">
+          <p className="text-gray-500 text-justify p-2 m-2">
           
 A communal environment or virtual world made possible by the fusion of physical and virtual reality is referred to as the "metaverse." Users can engage in shared interactions with a wide range of virtual objects and environments in this imagined networked virtual world. Various technology businesses are aggressively pursuing the science fiction idea of a metaverse in an effort to give users a seamless and immersive experience.
 

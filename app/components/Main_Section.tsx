@@ -3,18 +3,19 @@
       <div className="h-screen" >
         <span className="h-4/5 flex flex-col justify-around items-center border-2">
             
-              <span className="  text-xl sm:text-2xl font-bold
+              <span className="  text-xl sm:text-2xl font-bold text-center
               bg-clip-text text-transparent bg-gradient-to-l from-gray-400 to-black">
               Certified Web 3.0 and Metaverse Developer
               </span>
           
-            <span className=" font-bold text-base sm:text-xl md:text-2xl lg:text-3xl text-red-400 sm:font-thin md:font-normal lg:font-medium ">
+            <span className="font-bold text-base text-center sm:text-xl md:text-2xl lg:text-3xl text-red-400 sm:font-bold md:font-bold lg:font-bold ">
             A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar
             </span>
+            
            <span className="flex flex-col justify-between items-center"> 
-          <span className=" sm:justify-center text-gray-400 text-base sm:text-xl md:text-2xl">
+          <span className="font-bold text-center sm:justify-center text-gray-400 text-sm sm:text-xl md:text-2xl">
           Getting Ready for the Next Generation and Future of the Internet</span>
-          <span className="visible sm:justify-center text-gray-400 text-base sm:text-xl md:text-2xl">
+          <span className="visible font-bold text-center sm:justify-center text-gray-400 text-sm sm:text-xl md:text-2xl">
           Join a 13 Trillion Dollar Industry with 5 Billion Users</span>
           </span>
           <span className="flex flex-col sm:flex-row">
