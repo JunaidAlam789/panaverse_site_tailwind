@@ -14,11 +14,13 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
+    <div className=" bg-gradient-to-br from-indigo-900 to-blue-500">
     <NavBar/>
     <Main_Section/>
     <Community/>
     <MetaverseAnimate/>
     <Footer/>
+    </div>
     </>
 
   )

@@ -15,7 +15,7 @@ const Logo = (props: any) => {
 export default function Footer() {
   return (
     
-      <div className="p-2 bg-white/100">
+      <div className="p-2 ">
         <div className="flex flex-col sm:flex-row justify-center">
         <div className="pr-20 pt-10 pl-2">
         <Logo className="h-16 w-16 p-2" />
