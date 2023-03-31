@@ -10,7 +10,7 @@
              </div>
            
            <div className="flex-[2] flex flex-col  text-gray-500 bg-white rounded-md shadow-md">
-           <p className="text-gray-800 bg-gray-200 rounded-lg font-bold text-2xl animate-bounce text-center m-2 p-2">
+           <p className="text-gray-800 bg-blue-200 rounded-lg font-bold text-2xl animate-bounce text-center m-2 p-2">
             What is Metaverse ?</p> 
           
           <p className="text-gray-500 text-justify p-2 m-2">

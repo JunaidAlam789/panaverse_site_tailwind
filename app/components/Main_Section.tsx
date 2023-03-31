@@ -5,7 +5,7 @@
   export default function Main_Section() {
     useEffect(()=>{AOS.init();},[])
     return (
-      <div className="h-screen shadow-2xl  bg-gradient-to-bl from-blue-100 to-blue-900 " >
+      <div className="h-screen shadow-2xl  bg-gradient-to-b from-blue-900 to-blue-100 " >
         <span className="h-4/5 flex flex-col justify-around items-center ">
             
               <span className="  text-xl sm:text-2xl font-bold text-center

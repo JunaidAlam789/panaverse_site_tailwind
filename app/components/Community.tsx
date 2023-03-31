@@ -5,7 +5,7 @@ export default function Community() {
            
      
         <div className=" flex-grow flex flex-col sm:flex-row sm:justify-center items-center
-        border-gray-500  bg-gray-200 rounded-md shadow-md py-4">
+        border-gray-500  bg-blue-200 rounded-md shadow-md py-4">
                 
             <p className="flex-1 text-gray-800 bg-white font-bold text-center text-2xl rounded-lg my-2 py-2 px-20">
             The Panaverse Community
