@@ -8,15 +8,17 @@ import Community from './components/Community'
 import Footer from './components/Footer'
 //import Slide from './components/Slide'
 import MetaverseAnimate from './components/MetaverseAnimate'
+import Nutshell from './components/Nutshell'
 
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
     <>
-    <div className=" bg-gradient-to-br from-indigo-900 to-blue-500">
+    <div className=" bg-gradient-to-br from-blue-900 to-blue-500">
     <NavBar/>
     <Main_Section/>
+    <Nutshell/>
     <Community/>
     <MetaverseAnimate/>
     <Footer/>

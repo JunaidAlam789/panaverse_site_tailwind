@@ -24,7 +24,8 @@
           Join a 13 Trillion Dollar Industry with 5 Billion Users</span>
           </span>
           <span className="flex flex-col sm:flex-row" data-aos="fade-right">
-            <button className="mx-2 px-2 animate-bounce  text-white h-10 rounded-full bg-gradient-to-l from-red-900 to-red-400 hover:bg-red-500  hover:border-red-400 hover:border-4">
+          {/* className="mx-2 px-2 animate-bounce" */}
+            <button className="mx-2 px-2  text-white h-10 rounded-full bg-gradient-to-l from-red-900 to-red-400 hover:bg-red-500  hover:border-red-400 hover:border-4">
              <a href={'https://portal.piaic.org/signup'}>Apply Now</a>
             </button>
             <button className="mx-2 px-2 text-white rounded-full h-10 bg-gray-400 border-gray-400 border-4 hover:border-red-400">
