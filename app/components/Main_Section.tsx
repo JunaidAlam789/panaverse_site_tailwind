@@ -9,19 +9,19 @@
         <span className="h-4/5 flex flex-col justify-around items-center ">
             
               <span className="  text-xl sm:text-2xl font-bold text-center
-              bg-clip-text text-transparent bg-gradient-to-l from-gray-900 to-white" data-aos="fade-right" >
+              bg-clip-text text-transparent bg-gradient-to-l from-gray-300 to-gray-300" data-aos="fade-right" >
               Certified Web 3.0 and Metaverse Developer
               </span>
           
-            <span className="font-bold text-base text-center sm:text-xl md:text-2xl lg:text-3xl bg-clip-text text-transparent bg-gradient-to-l from-red-900 to-red-400 sm:font-bold md:font-bold lg:font-bold" data-aos="fade-right" >
+            <span className="font-bold text-base text-center sm:text-xl md:text-2xl lg:text-3xl bg-clip-text text-transparent bg-gradient-to-l from-orange-400 to-purple-600 via-pink-500 sm:font-bold md:font-bold lg:font-bold" data-aos="fade-right" >
             A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar
             </span>
             
            <span className="flex flex-col justify-between items-center " > 
-          <span className="font-bold text-center sm:justify-center bg-clip-text text-transparent bg-gradient-to-l from-gray-900 to-white text-sm sm:text-xl md:text-2xl" data-aos="fade-right">
+          <span className="font-bold text-center sm:justify-center bg-clip-text text-transparent bg-gradient-to-l from-gray-400 to-gray-400 text-sm sm:text-xl md:text-2xl" data-aos="fade-right">
           Getting Ready for the Next Generation and Future of the Internet</span>
-          <span className="visible font-bold text-center sm:justify-center bg-clip-text text-transparent bg-gradient-to-l from-gray-900 to-white text-sm sm:text-xl md:text-2xl" data-aos="fade-right">
-          Join a 13 Trillion Dollar Industry with 5 Billion Users</span>
+          <span className="visible font-bold text-center sm:justify-center bg-clip-text text-transparent bg-gradient-to-l from-gray-400 to-gray-400 text-sm sm:text-xl md:text-2xl" data-aos="fade-right">
+          Join a 13 Trillion Dollar Industry with 5 Billion Users</span> 
           </span>
           <span className="flex flex-col sm:flex-row" data-aos="fade-right">
           {/* className="mx-2 px-2 animate-bounce" */}

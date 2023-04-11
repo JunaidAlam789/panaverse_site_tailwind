@@ -20,7 +20,8 @@
               The Program in a NutShell
               </span>
           
-            <span className="font-bold text-base text-center sm:text-xl md:text-2xl lg:text-3xl text-white sm:font-bold md:font-bold lg:font-bold" data-aos="fade-right" >
+            <span className="font-bold text-base text-center sm:text-xl md:text-2xl lg:text-3xl text-white sm:font-bold md:font-bold lg:font-bold
+            bg-clip-text text-transparent bg-gradient-to-l from-orange-400 to-purple-600 via-pink-500" data-aos="fade-right" >
             Earn While you Learn
             </span>
             
