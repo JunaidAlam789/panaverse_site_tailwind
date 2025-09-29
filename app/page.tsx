@@ -16,7 +16,9 @@ export default function Home() {
   return (
     <>
     <div className=" bg-gradient-to-br from-indigo-900 to-gray-900">
+    <div className="sticky top-0 z-50">
     <NavBar/>
+    </div>
     <Main_Section/>
     <Nutshell/>
     <Community/>
