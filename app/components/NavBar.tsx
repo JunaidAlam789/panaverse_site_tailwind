@@ -15,7 +15,7 @@ export default function NavBar() {
           <img src="./panaverse80_80.jpg" className="h-12 w-12 p-2"/>
           </div>
           {/*  */}
-          <ul className="flex flex-wrap flex-grow sm:flex-grow-0 order-last sm:order-none sm:shrink-0 text-white font-bold top-0 z-50   shadow-slate-300  bg-indigo-900 bg-opacity-80 border-2 rounded-full m-1 ">
+          <ul className="menu flex flex-wrap flex-grow sm:flex-grow-0 order-last sm:order-none sm:shrink-0 text-white font-bold top-0 z-50   shadow-slate-100  bg-indigo-900 bg-opacity-80  rounded-full m-1 ">
           <a className="m-4 " href="/">Home</a>
           <a className="m-4 " href="/metaverse">Metaverse</a> 
           <a className="m-4 " href="/community">Community</a>
